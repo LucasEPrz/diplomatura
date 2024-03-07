@@ -1,2 +1,2 @@
 # diplomatura
-Proyecto finla de la diplomatura
+Proyecto final de la diplomatura
